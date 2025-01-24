@@ -1,0 +1,32 @@
+.experiences {
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.experiences h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.experiences div {
+    margin-bottom: 20px;
+    text-align: left;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 15px;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.experiences h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.experiences p {
+    font-size: 1em;
+    color: #666;
+}
